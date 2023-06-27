@@ -1,5 +1,5 @@
 # Projeto Boletim
-## O programa tem como objetivo cadastrar, alterar, deletar alunos, disciplinas e suas notas, e exportar o boletim em formato Excel.
+## O programa tem como objetivo cadastrar, alterar, deletar alunos, disciplinas e suas notas, e exportar o boletim em formato Excel.:memo:
 
 ### Linguagem Python
 
